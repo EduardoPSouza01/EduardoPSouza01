@@ -28,4 +28,4 @@
     <a href="https://discord.com/channels/eduardopsouza" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EduardoPSouza01/EduardoPSouza01/blob/output/github-contribution-grid-snake.svg)
